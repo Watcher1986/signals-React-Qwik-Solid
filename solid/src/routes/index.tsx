@@ -41,7 +41,7 @@ export default function Home() {
 
   return (
     <main>
-      <h1>Solid Variant</h1>
+      <h1>Solid Signals</h1>
       <input
         type='text'
         value={filter()}
