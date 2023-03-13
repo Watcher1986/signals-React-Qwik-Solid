@@ -6,6 +6,8 @@ function App() {
 
   return (
     <div>
+      <h1>React Signals</h1>
+
       <input
         type='text'
         onChange={(e) => {

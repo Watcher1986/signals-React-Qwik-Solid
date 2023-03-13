@@ -39,7 +39,7 @@ export default component$(() => {
 
   return (
     <div>
-      <h1>Qwik</h1>
+      <h1>Qwik Signals</h1>
 
       <input
         type='text'
